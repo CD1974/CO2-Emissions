@@ -3,7 +3,8 @@ Visualizaciones interactivas y exploratorias sobre emisiones de CO₂, energía 
 
 ---
 
-📁 Estructura del proyecto
+# 📁 Estructura del proyecto
+
 📦 Emisiones_CO2_Visual
 ├── data/
 │   └── emissions_cleaned.csv
