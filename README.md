@@ -1,6 +1,25 @@
 # CO2-Emissions
 Visualizaciones interactivas y exploratorias sobre emisiones de CO₂, energía y variables económicas desde 1950 hasta 2022.   Incluye análisis por país, evolución histórica, sectores contaminantes y mapas temáticos.
 
+---
+
+📁 Estructura del proyecto
+📦 Emisiones_CO2_Visual
+├── data/
+│   └── emissions_cleaned.csv
+├── images/
+│   ├── top_10_co2_2021.png
+│   ├── top_10_co2_per_capita_2021.png
+│   ├── evolucion_co2_2000_2022.png
+│   └── columnas_utiles_cobertura.png
+├── notebooks/
+│   └── visualizaciones.ipynb
+├── utils/
+│   └── filtros.py  # funciones tipo 'filtrar_epoca'
+└── README.md
+
+---
+
 # 🌍 Exploración Visual de Emisiones de CO₂ (1950–2022)
 
 Proyecto de análisis y visualización de datos históricos sobre emisiones de dióxido de carbono, variables económicas, energéticas y climáticas a nivel mundial.
